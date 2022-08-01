@@ -14,7 +14,7 @@
 ### 실험 방법
 - 전이학습transfer learning기법 적용: 120만장의 ImageNet 데이터 셋으로 사전 훈련된 ResNet-18의 지식을 기반 위에, 타겟인종과 촬영 장비 등이 다양한 이미지 도메인의 안저사진을 fine-tuning하여 모델 훈련 및 검증
 
-#### 실험 결과
+### 실험 결과
 - 총 4번의 실험 중 최고 97.30%와 평균 96.71%의 정확도 기록
 
 
@@ -39,5 +39,5 @@
 
 ![validatrion_visualization](https://user-images.githubusercontent.com/71416000/182088908-bc6382ae-0b3e-4e35-a73d-c1c88c8652cf.jpg)
 
-- 전이학습 관련 참고 코드소스:
-PyTorch 공식문서: 'transfer learning tutorial for computer vision tutorial' at: https://github.com/pytorch/tutorials.git by Author: Sasank Chilamkurthy
+- 전이학습 관련 참고:
+PyTorch 공식문서 'transfer learning tutorial for computer vision tutorial' at https://github.com/pytorch/tutorials.git by author Sasank Chilamkurthy
