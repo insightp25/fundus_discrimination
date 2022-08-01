@@ -40,6 +40,4 @@
 ![validatrion_visualization](https://user-images.githubusercontent.com/71416000/182088908-bc6382ae-0b3e-4e35-a73d-c1c88c8652cf.jpg)
 
 - 전이학습 관련 참고 코드소스:
-PyTorch 공식문서 'transfer learning tutorial for computer vision tutorial'
-https://github.com/pytorch/tutorials.git
-Author: Sasank Chilamkurthy
+PyTorch 공식문서: 'transfer learning tutorial for computer vision tutorial' at: https://github.com/pytorch/tutorials.git by Author: Sasank Chilamkurthy
