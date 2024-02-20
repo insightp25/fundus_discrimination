@@ -20,16 +20,6 @@
 
 ### 실험 화면
 
-- pre-prossessing:
-
-![preprocessing](https://user-images.githubusercontent.com/71416000/182088913-f148aa04-71a8-4792-af8e-bb393ad92fa2.jpg)
-
-
-- training model:
-
-![train_model](https://user-images.githubusercontent.com/71416000/182088916-4fbdb1be-f054-4a3f-9eb8-abb90d545bb5.jpg)
-
-
 - epochs display:
 
 ![epochs](https://user-images.githubusercontent.com/71416000/182088911-23713828-1afb-4f18-a6f0-f12d803373e4.jpg)
